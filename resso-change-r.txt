@@ -1,0 +1,16 @@
+SB RESSO UPDATE :
+
+🏷Base Update 1.70.0
+1. Explore the New UI.
+
+2. Enabled new Explore Tab icon.
+
+3. Enabled new artist page.
+
+4. Enabled new Favourite Icon (👍).
+
+5. Enabled Play When using others apps.
+
+6. Replaced Explore Icon to  For you icon.
+
+7. Back to Added Music Finder.
