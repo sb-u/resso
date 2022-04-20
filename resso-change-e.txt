@@ -1,6 +1,6 @@
 SB RESSO UPDATE :
 
-🏷Base Update 1.70.0
+🏷Base Update 1.72.1
 1. Explore the New UI.
 
 2. Enabled new Explore Tab icon.
