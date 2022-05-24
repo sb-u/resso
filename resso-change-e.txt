@@ -1,6 +1,6 @@
 SB RESSO UPDATE :
 
-🏷Base Update 1.74.2
+🏷Base Update 1.76.1
 1. Option to Added Disable/Enable New UI(Long Press The New Setting Icon )
 
 2. Enabled Song Import Guide. (via  Soundizz )
